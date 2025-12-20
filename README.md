@@ -14,8 +14,7 @@ Chimera v1.0 utilizes **Projected Gradient Descent (PGD)** to find optimal noise
 
 ## 📸 Results
 | Input Image | Adversarial Mask | Protected Output |
-| :--- | :--- | :--- |
-| [Insert your photo] | [Insert Chimera mask] | [Insert protected photo] |
+
 
 ## 💻 Installation & Usage
 1. Clone the repo: `git clone https://github.com/hsprince-14/Project-Chimera-v1.git`
